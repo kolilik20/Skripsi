@@ -1,5 +1,6 @@
 <?php 
 // koneksi dengan PDO extension
+// Coba Fork
 
 $host = 'localhost';
 $db = 'fuzzy';
